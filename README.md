@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **MERN stack**
 - 🌱 I’m currently learning **Blockchain**
 - 💬 Talk to me about **Python, Freelancing Opportunites, Open Source, Blockchain, Machine Learning**
-- 📫 I'm active on [Linkedin](https://www.linkedin.com/in/about-shubhamgaur/)
+- 📫 I'm active on [Linkedin](https://www.linkedin.com/in/tariq-ahmad-farooqui-34a1b51b7/)
 - ⚡ Secret fact: I'm Tea lover🍵
 
 <h2 align = center>

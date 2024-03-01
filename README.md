@@ -33,9 +33,9 @@
   
   **`Connect with me`** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align=center>
-<a href = 'https://www.linkedin.com/in/about-shubhamgaur/'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp
-<a href = 'https://twitter.com/shubham53351'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp 
-<a href = 'https://github.com/ShubhamGaur-277'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/tariq-ahmad-farooqui-34a1b51b7/'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp
+<a href = ''> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp 
+<a href = 'https://github.com/Tariqadg/tariqadg'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
 <div>
 <h2 align = center> 

@@ -26,7 +26,9 @@
 <a> <img width ='30px' src ='https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png'> </a>&nbsp
 <a> <img width ='35px' src ='https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png'> </a>&nbsp
 <a> <img width ='26px' src ='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg'> </a>&nbsp
-<a> <img width ='20px' src ='https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg'> </a>
+<a> <img width ='26px' src ='https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=256'> </a>&nbsp
+
+
 </p>
 <!--media  -->
 <h2 align=center>
